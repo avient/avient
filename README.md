@@ -3,7 +3,7 @@
 I am QA Automation Engineer. I love experimenting with new technologies and building new projects.
 
 - 🔭 I’m currently working as a **QA Automation Engineer** with [iThechArt](https://www.itechart.com/).
-- 🌱 Learning and developing Automation projects in JS, Java, C#.
+- 🌱 Developing Automation projects in JS, Java, C#.
 - ✍️ I’m currently learning Python and DevOps.
 - 😄 Pronouns: he/him/his
 
